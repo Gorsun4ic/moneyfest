@@ -4318,7 +4318,7 @@
                 observer: true,
                 observeParents: true,
                 slidesPerView: 1,
-                spaceBetween: 0,
+                spaceBetween: 10,
                 autoHeight: true,
                 speed: 800,
                 autoplay: {
@@ -4373,6 +4373,7 @@
                 spaceBetween: 30,
                 autoHeight: true,
                 speed: 800,
+                centeredSlides: true,
                 autoplay: {
                     delay: 4e3
                 },
